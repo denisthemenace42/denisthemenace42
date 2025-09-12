@@ -1,8 +1,7 @@
-# Hi, I'm Denis 👋  
+# Hi, I'm Denis the menace! 👋  
 
 **Web3 dev • Building on Solana • Student of CS**  
 
-Currently shipping **Causa** (cause-driven tokenomics + RP/DAO) and **SOLalchemists** (NFT mint site). Founder of **Men of Varna** community.  
 
 ---
 
