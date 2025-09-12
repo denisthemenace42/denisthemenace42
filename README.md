@@ -7,6 +7,7 @@ Currently shipping **Causa** (cause-driven tokenomics + RP/DAO) and **SOLalchemi
 ---
 
 ## 🚀 Projects  
+- **Black Sea Block** → Student community in my university for building on Web3.  
 - **Causa on Solana** → mobile-first dApp with staking, quests & DAO.  
 - **SOLalchemists** → NFT collection + mint site.  
 - **Men of Varna App** → ASP.NET Core platform for events & community.  
