@@ -13,6 +13,3 @@
 - **Men of Varna** → ASP.NET Core platform for events & community ( Built for my SoftUni final course exam ).  
 
 ---
-
-## 🧰 Tech  
-TypeScript • React/React Native • C#/.NET • SQL • Solana (Anchor, Metaplex)  
