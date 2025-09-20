@@ -2,7 +2,6 @@
 
 **Web3 dev • Building on Solana • Student of CS**  
 
-
 ---
 
 ## 🚀 Projects  
@@ -12,4 +11,3 @@
 - **SOL Alchemists** → NFT collection + mint site.  
 - **Men of Varna** → ASP.NET Core platform for events & community ( Built for my SoftUni final course exam ).  
 
----
