@@ -1,9 +1,3 @@
-# Hi, I'm Denis the menace! 👋  
-
-**Web3 dev • Building on Solana • Student of CS**  
-
----
-
 ## 🚀 Projects  
 - **Black Sea Block** → Student community in my university for building on Web3.
 - **PHP University Managment** → My project for WEB programming class in TU-Varna.  
